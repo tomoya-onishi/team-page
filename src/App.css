@@ -1,0 +1,51 @@
+.page-title {
+  position: absolute;
+  width: 340px;
+  height: 47px;
+  left: 243px;
+  top: 110px;
+
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: -0.045em;
+
+  color: #000000;
+}
+
+.topic{
+  position: absolute;
+  width: 130px;
+  height: 27px;
+  left: 736px;
+  top: 110px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.info {
+  position: absolute;
+  width: 430px;
+  height: 87px;
+  left: 736px;
+  top: 147px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #000000;
+}
